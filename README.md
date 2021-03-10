@@ -1,0 +1,2 @@
+# Stock-API-Price-Project
+Create a program where the user can enter the name of the stock to gather the stock price from yesterday to day before yesterday. Gathers the data and calculates the difference in dollars($) and percentage(%). Takes the company name and return new articles related to the company to predict price change. Used an API from  https://www.alphavantage.co/ to pull data and format into Json using Python.
